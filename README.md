@@ -2,7 +2,7 @@
 
 A lightweight, minimal and compact structure to execute and experiment a PHP code.
 
-# Usage
+## Usage
 
 You don't need to have PHP locally, [phpctl](https://github.com/opencodeco/phpctl) does everything for you!
 
